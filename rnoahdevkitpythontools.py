@@ -1,0 +1,5 @@
+print("Welcome to Python Developer Tools from the RetroNoah dev kit!")
+name = input("Please enter your name: )
+            print("Hi! "+name, 'type in a cmd in RNoah')
+             input("Enter a cmd:")
+             print('Cmd Failed')
